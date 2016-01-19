@@ -1,0 +1,834 @@
+{
+	"physicians": {
+		"physician": [
+					  {
+					    "name":"Dr. Shelly Friedman",
+					    "clinic":"Scottsdale Institute of Cosmetic Dermatology ",
+					    "logo":"",
+					    "photo":"photo_friedman.jpg",
+					    "smallphoto":"thumbnail_friedman.png",
+					    "phone":"(888) 382-2931",
+					    "info":"Dr. Friedman is a Board Certified Hair Restoration Surgeon with 29 Years of Experience Treating More than 15,000 Men and Women with Hair Loss. \n\nDr. Friedman has dedicated his medical career to becoming a true specialist in hair restoration surgery. He is the Founding President of the American Board of Hair Restoration Surgery, the certifying board for hair transplant surgeons. Dr. Friedman believes that hair transplantation is a surgical specialty in itself and like other medical specialties, it requires professional oversight to protect the public from inexperienced surgeons. He has lectured extensively nationally and internationally at hair restoration and dermatology seminars. He has also taught his surgical techniques at live surgery workshops.",
+					    "email":"haredoc@aol.com",
+					    "address":{
+					        "housestreet":"8700 E. Via De Ventura",
+						    "suite":"",
+						    "city":"Scottsdale",
+						    "state":"AZ",
+						    "zipcode":"85258",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Young Hong",
+					    "clinic":"Visual Hair Clinic ",
+					    "logo":"",
+					    "photo":"photo_hong.jpg",
+					    "smallphoto":"thumbnail_hong.png",
+					    "phone":"(888) 963-9307",
+					    "info":"Young P. Hong, M.D.\n\nUnder Graduate Study University of California, Berkeley.\n\nPost Graduate Study, Hanehmann Medical College & Hospitals, Philadelphia PA.\n\nMedical Director, Ebenezer Plastic Surgery Center.\n\nMedical Director, Visual Plastic Surgery Center.",
+					    "email":"dryhong@gmail.com",
+					    "address":{
+					        "housestreet":"2636 West Olympic Boulevard",
+						    "suite":"",
+						    "city":"Los Angeles",
+						    "state":"CA",
+						    "zipcode":"90006",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. David Berman",
+					    "clinic":"Berman Skin Institute",
+					    "logo":"",
+					    "photo":"photo_berman.jpg",
+					    "smallphoto":"thumbnail_berman.png",
+					    "phone":"(888) 998-0929",
+					    "info":"Dr. David A. Berman was the Principal Investigator (PI) who performed the clinical trials that led to FDA approval in 2011, and remains the Principal Investigating physician for clinical studies with Restoration Robotics, Inc, the maker of the device.\n\nBoard Certified, American Board of Dermatology\n\nResidency\nDermatology, Northwestern University School of Medicine, Chicago, IL. Completed residency as the Chief Resident in June of 1993.\n\nInternship\nInternal Medicine, University of California at Los Angeles, Los Angeles, CA. Completed in June, 1990.\n\nProfessional\nBaylor College of Medicine, Houston, TX. Graduated with a Doctor of Medicine degree in June, 1989.\n\nCollege\nUniversity of California, Berkeley, Berkeley, CA. Graduated with honors in 1984 with a B.A. degree.",
+					    "email":"consult@ehair.com",
+					    "address":{
+					        "housestreet":"100 Pringle Avenue  ",
+						    "suite":"#425",
+						    "city":"Walnut Creek",
+						    "state":"CA",
+						    "zipcode":"94596",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. David Berman",
+					    "clinic":"Berman Skin Institute",
+					    "logo":"",
+					    "photo":"photo_berman.jpg",
+					    "smallphoto":"thumbnail_berman.png",
+					    "phone":"(888) 998-0929",
+					    "info":"Dr. David A. Berman was the Principal Investigator (PI) who performed the clinical trials that led to FDA approval in 2011, and remains the Principal Investigating physician for clinical studies with Restoration Robotics, Inc, the maker of the device.\n\nBoard Certified, American Board of Dermatology\n\nResidency\nDermatology, Northwestern University School of Medicine, Chicago, IL. Completed residency as the Chief Resident in June of 1993.\n\nInternship\nInternal Medicine, University of California at Los Angeles, Los Angeles, CA. Completed in June, 1990.\n\nProfessional\nBaylor College of Medicine, Houston, TX. Graduated with a Doctor of Medicine degree in June, 1989.\n\nCollege\nUniversity of California, Berkeley, Berkeley, CA. Graduated with honors in 1984 with a B.A. degree.",
+					    "email":"consult@ehair.com",
+					    "address":{
+					        "housestreet":"900 Welch Road ",
+						    "suite":"Suite 300",
+						    "city":"Palo Alto",
+						    "state":"CA",
+						    "zipcode":"94304",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Parsa Mohebi",
+					    "clinic":"Parsa Mohebi Hair Restoration",
+					    "logo":"",
+					    "photo":"photo_mohebi.jpg",
+					    "smallphoto":"thumbnail_mohebi.png",
+					    "phone":"(877) 249-5118",
+					    "info":"Dr. Parsa Mohebi is an internationally recognized hair transplant surgeon known for his achievements in advancing modern hair restoration. He is well known for his individualized approach to each and every one of his patients, who are impressed by his superior technique and artistic sensibility. His state of the art precision creates natural looking hairlines that complement his patients’ age and facial features. What Dr. Mohebi finds most gratifying are the long term relationships he forms with his patients, who show amazing progress in their personal and professional lives.",
+					    "email":"pmohebi@parsamohebi.com",
+					    "address":{
+					        "housestreet":"16661 Ventura Blvd.",
+						    "suite":"Suite 313",
+						    "city":"Encino",
+						    "state":"CA",
+						    "zipcode":"91436",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. William Rassman",
+					    "clinic":"New Hair Institute ",
+					    "logo":"",
+					    "photo":"photo_rassman.png",
+					    "smallphoto":"thumbnail_rassman.png",
+					    "phone":"(877) 862-4269",
+					    "info":"Our physicians are world renowned for their aesthetic skills and meticulous attention to the fine details of hair restoration surgery. We understand the complexities and subtle nuances of Follicular Unit Transplantation and Follicular Unit Extraction, the procedures pioneered by NHI Founder, Dr. William Rassman. We give each of our patients the best possible care.\n\nDr. William Rassman graduated from the Medical College of Virginia in 1966 where he received his Doctor of Medicine. He completed a surgical internship at the University of Minnesota and obtained a cardiovascular fellowship with Dr. C.W. Lillehei, the man who invented modern heart surgery. He completed a residency in general surgery at the Cornell Medical Center and Dartmouth Medical Center.",
+					    "email":"williamrassman@gmail.com",
+					    "address":{
+					        "housestreet":"5757 Wilshire Blvd",
+						    "suite":"Promenade 2",
+						    "city":"Los Angeles",
+						    "state":"CA",
+						    "zipcode":"90036",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Mahmoud Khattab",
+					    "clinic":"Elk Grove Medical Spa",
+					    "logo":"",
+					    "photo":"photo_khattab.jpg",
+					    "smallphoto":"thumbnail_khattab.png",
+					    "phone":"(888) 566-6664",
+					    "info":"Dr. Khattab is a board-certified internist as well as a Doctor of Aesthetic Medicine, Dr. Mahmoud Khattab graduated from the University of Damascus and completed his internship at the world-renowned Case Western Hospital in Cleveland. Before establishing the Elk Grove Medical Spa to provide aesthetic medical treatments to people throughout the greater Sacramento area, Dr. Khattab practiced at Marshall Clinic in Wisconsin and at Dickinson County Hospital in Iowa.",
+					    "email":"info@khattabmd.com",
+					    "address":{
+					        "housestreet":"9390 Big Horn Boulevard",
+						    "suite":"Suite 145",
+						    "city":"Elk Grove",
+						    "state":"CA",
+						    "zipcode":"95758",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. James Harris",
+					    "clinic":"Hair Sciences Center of Colorado",
+					    "logo":"",
+					    "photo":"photo_harris.jpg",
+					    "smallphoto":"thumbnail_harris.png",
+					    "phone":"(888) 879-9362",
+					    "info":"James A. Harris, MD, FACS is an internationally prominent surgeon in the field of hair restoration surgery, and a published author of both medical and consumer publications. He is a faculty member of the University of Colorado School of Medicine, where he teaches hair transplantation to resident physicians in training and community physicians.\n\nJames Harris, MD, FACS, received his medical degree with honors from the University of Colorado School of Medicine in 1989. He is a Diplomate of the American Board of Otolaryngology, Fellow of the American College of Surgeons, and a member of the American Academy of Otolaryngology and the International Society of Hair Restoration Surgery. A facial plastic surgeon, his practice is limited exclusively to follicular unit hair transplantation and follicular unit extraction. He is a Clinical Instructor of Hair Transplantation at the University of Colorado Health Sciences Center in Denver, Colorado.",
+					    "email":"jaharris@hsccolorado.com",
+					    "address":{
+					        "housestreet":"5445 DTC Parkway",
+						    "suite":"Suite 1015",
+						    "city":"Greenwood Village",
+						    "state":"CO",
+						    "zipcode":"80111",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Glenn Charles",
+					    "clinic":"Charles Medical Group ",
+					    "logo":"",
+					    "photo":"photo_charles.jpg",
+					    "smallphoto":"thumbnail_charles.png",
+					    "phone":"(888) 741-3117",
+					    "info":"Dr. Glenn Charles was the primary physician trainer in hair transplant surgery for a large hair transplant organization from 1997-1999. He is also the past President of the American Board of Hair Restoration Surgery, Dr. Charles is a Diplomat of the ABHRS and sits on their Surgery Examination Committee.\n\nAmong the first surgeons in the world to acquire the ARTAS Robotic Hair Restoration System, Dr. Charles serves as a Clinical Trainer for Restoration Robotics and Charles Medical Group serves as a Clinical Observation Center training other surgeons from across the world in the most cutting-edge hair restoration techniques. Dr. Charles specializes exclusively in the practice of hair transplant surgery. Prides himself on giving his patients the most undetectable hair transplants results.",
+					    "email":"info@charleshair.com",
+					    "address":{
+					        "housestreet":"200 Glades Road",
+						    "suite":"Suite 2",
+						    "city":"Boca Raton",
+						    "state":"FL",
+						    "zipcode":"33432",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Jacque LeBeau",
+					    "clinic":"LeBeau Clinic",
+					    "logo":"",
+					    "photo":"photo_lebeau.jpg",
+					    "smallphoto":"thumbnail_lebeau.png",
+					    "phone":"(888) 963-9614",
+					    "info":"Dr. LeBeau is one of a select group of surgeons who are fellowship trained and double board-certified by the American Board of Facial Plastic & Reconstructive Surgery as well as the American Board of Otolaryngology-Head & Neck Surgery.",
+					    "email":"info@lebeauclinic.com",
+					    "address":{
+					        "housestreet":"1020 North Palafox Street",
+						    "suite":"",
+						    "city":"Pensacola",
+						    "state":"FL",
+						    "zipcode":"32501",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Roger Bassin",
+					    "clinic":"Tampa Hair Restoration Center",
+					    "logo":"",
+					    "photo":"photo_bassin.jpg",
+					    "smallphoto":"thumbnail_bassin.png",
+					    "phone":"(877) 212-8617",
+					    "info":"Dr. Roger Bassin is a board certified surgeon and a member of the American Society of Hair Restoration. He studied medicine at George Washington University Medical School’s Early Selection program after graduating Magna Cum Laude and Phi Beta Kappa from George Washington University. Dr. Bassin completed his residency at Mt. Sinai Medical Center in Ophthalmology. During his prestigious career as an eyelid and facial surgeon, Dr. Bassin helped pioneer many of the preferred “invisible incision” techniques for aesthetic facial plastic surgery.",
+					    "email":"info@myfloridahairmd.com",
+					    "address":{
+					        "housestreet":"4504 Wishart Place",
+						    "suite":"Suite A",
+						    "city":"Tampa",
+						    "state":"FL",
+						    "zipcode":"33603",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Roger Bassin",
+					    "clinic":"Orlando Hair Restoration Center",
+					    "logo":"",
+					    "photo":"photo_bassin.jpg",
+					    "smallphoto":"thumbnail_bassin.png",
+					    "phone":"(877) 433-4013",
+					    "info":"Dr. Roger Bassin is a board certified surgeon and a member of the American Society of Hair Restoration. He studied medicine at George Washington University Medical School’s Early Selection program after graduating Magna Cum Laude and Phi Beta Kappa from George Washington University. Dr. Bassin completed his residency at Mt. Sinai Medical Center in Ophthalmology. During his prestigious career as an eyelid and facial surgeon, Dr. Bassin helped pioneer many of the preferred “invisible incision” techniques for aesthetic facial plastic surgery.",
+					    "email":"info@myfloridahairmd.com",
+					    "address":{
+					        "housestreet":"422 South Alafaya Trail",
+						    "suite":"Suite 32A",
+						    "city":"Orlando",
+						    "state":"FL",
+						    "zipcode":"32828",
+						    "country":"United States"
+					    }
+					  },
+					  {	"name":"Dr. Conrad Caldwell",
+					    "clinic":"JonRic International",
+					    "logo":"",
+					    "photo":"photo_caldwell.png",
+					    "smallphoto":"thumbnail_caldwell.png",
+					    "phone":"(877) 628-8516",
+					    "info":"We have combined the best of all services from around the world together with the expertise of a highly trained and knowledgeable staff. Our mission is to promote a comfortable environment for both men and women to receive state of the art skin, hair, body and health enhancing care they can live with to improve and rejuvenate their personal appearance and overall health. Our goal is to become a trusted destination whereby our clients in our community can come to refresh their minds and bodies, replenish their energies, and network with their colleagues and friends!",
+					    "address":{
+					        "housestreet":"1229 East 33rd Street",
+						    "suite":"",
+						    "city":"Edmond",
+						    "state":"OK",
+						    "zipcode":"73013",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Shim Ching",
+					    "clinic":"Hair Transplant Hawaii",
+					    "logo":"",
+					    "photo":"photo_ching.gif",
+					    "smallphoto":"thumbnail_ching.png",
+					    "phone":"(888) 966-0736",
+					    "info":"Dr. Ching is a plastic surgeon and hair transplant surgeon in Honolulu, Hawaii. He is a graduate of the prestigious McGill University in Montreal and earned his medical degree from the University of British Columbia in Vancouver. His plastic surgery residency was completed at McMaster University, a Canadian institution known for innovation and excellence in medicine.\n\nDr. Ching received additional surgical training in Geneva, New York City, Toronto, Rio de Janeiro, Honolulu and San Francisco. He has authored or co-authored many studies in peer-reviewed basic science and plastic surgery publications. Additionally, he’s given numerous national and international presentations on these topics. He holds several awards for excellence in scholarship and research.",
+					    "email":"contact@drshimching.com",
+					    "address":{
+					        "housestreet":"1401 South Beretania Street",
+						    "suite":"#888",
+						    "city":"Honolulu",
+						    "state":"HI",
+						    "zipcode":"96814",
+						    "country":"United States"
+					    }
+
+					  },
+					  {
+					    "name":"Dr. William Yates",
+					    "clinic":"Dr. Yates Hair Science Group of Chicago",
+					    "logo":"",
+					    "photo":"photo_yates.jpg",
+					    "smallphoto":"thumbnail_yates.png",
+					    "phone":"(888) 930-9053",
+					    "info":"Dr. Yates focuses solely on hair restoration.  For over 10 years, he has exclusively been performing and perfecting state-of-the art hair restoration surgery.  He is board certified and is a board member and board examiner.\n\nDr. Yates has performed thousands of procedures and he performs all of the procedures himself.  He does not delegate the work to a physician’s assistant or to a technician.  He even punches out all of the hair himself, with a transection rate that is less than 3%.  This is the most crucial step to obtaining excellent quality grafts for the most successful results and Dr. Yates feels very strongly that this should only be performed by a skilled physician.",
+					    "email":"robin@dryateshairscience.com",
+					    "address":{
+					        "housestreet":"565 Lakeview Parkway",
+						    "suite":"Suite 108",
+						    "city":"Vernon Hills",
+						    "state":"IL",
+						    "zipcode":"60061",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Herbert Feinberg",
+					    "clinic":"Robotic Hair Restoration Center of New Jersey ",
+					    "logo":"",
+					    "photo":"photo_feinberg.png",
+					    "smallphoto":"thumbnail_feinberg.png",
+					    "phone":"(877) 425-2101",
+					    "info":"The first doctor in NJ to have the Artas Robot FUE Hair Transplant Machine.\n\nDr. Herbert S Feinberg is a world-renowned dermatologist and the founder of the Dermatology and Hair Transplant Center in Englewood, NJ.  He is a pioneer in hair transplantation and has been performing transplants for over thirty years. Dr. Feinberg is the first doctor in New Jersey to use the Artas Robot FUE hair transplant machine.\n\nDr. Feinberg is a board-certified Diplomate of the American Board of Dermatology and a Fellow of the American Academy of Dermatology.  He is past president of the North Jersey Dermatological Society and past Chairman of The Cosmetics and Skin Care Committee of the Bergen County Medical Society.",
+					    "email":"hairdoc@hairmd.com",
+					    "address":{
+					        "housestreet":"363 Grand Avenue",
+						    "suite":"",
+						    "city":"Englewood",
+						    "state":"NJ",
+						    "zipcode":"07631",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Robert Bernstein",
+					    "clinic":"Bernstein Medical Center for Hair Restoration ",
+					    "logo":"",
+					    "photo":"photo_bernstein.jpg",
+					    "smallphoto":"thumbnail_bernstein.png",
+					    "phone":"(888) 863-6014",
+					    "info":"Robert M. Bernstein, MD, MBA, FAAD, FISHRS, is a Clinical Professor of Dermatology at the College of Physicians and Surgeons of Columbia University in New York.  He is recognized world-wide for developing Follicular Unit Transplantation (FUT) and Follicular Unit Extraction (FUE), the procedures that have revolutionized modern surgical hair restoration. Dr. Bernstein is a pioneer in robotic FUE and medical advisor to Restoration Robotics.\n\nMichael B. Wolfeld, M.D. is a board certified plastic surgeon and an Assistant Clinical Professor of Plastic Surgery at Mount Sinai Hospital. He lectures nationally on cosmetic surgery and robotic hair restoration.\nBernstein Medical – Center for Hair Restoration is located in midtown Manhattan, New York City. It is a beta-test site for Restoration Robotics.\n\nBernstein Medical has introduced new applications of the robotic system including robotic recipient site creation, automated follicular unit graft selection, a smaller punch to minimize donor wounds, and “pre-making” recipient sites. Every FUE procedure at Bernstein Medical uses the ARTAS robotic system.",
+					    "email":"contact@bernsteinmedical.com",
+					    "address":{
+					        "housestreet":"110 East 55th Street",
+						    "suite":"",
+						    "city":"New York",
+						    "state":"NY",
+						    "zipcode":"10022",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Roy Stoller",
+					    "clinic":"Hair Restoration Solutions ",
+					    "logo":"",
+					    "photo":"photo_stoller.png",
+					    "smallphoto":"thumbnail_stoller.png",
+					    "phone":"(888) 854-2226",
+					    "info":"A pioneer in the field of hair transplant and with over 25 years of experience, and the former Medical Director of Hair Club for Men New York.\nFellow American Academy Otolaryngology/ Head and Neck Surgery\n\nFellow American Osteopathic Academy Otolaryngology/ Head and Neck Surgery\n\nFellow American Academy Cosmetic Surgery\n\nMember International Society Hair Restoration Surgery\n\nBoard Certified Facial Plastic Surgery\n\nBoard Certified Otolaryngology/ Head and Neck Surgery\n\nMilitary Service: US Air Force Facial Plastic Surgeon, Clinical instructor of resident physician staff at Andrews Air Force Base and Walter Reed Medical Center Washington, DC\n\nReceived the prestigious USAF award for meritorious service",
+					    "email":"drstoller@roystoller.com",
+					    "address":{
+					        "housestreet":"515 Madison Avenue",
+						    "suite":"Suite 1205",
+						    "city":"New York",
+						    "state":"NY",
+						    "zipcode":"10022",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Craig Ziering",
+					    "clinic":"Ziering New York ",
+					    "logo":"",
+					    "photo":"photo_ziering.jpg",
+					    "smallphoto":"thumbnail_ziering.png",
+					    "phone":"(888) 860-4386",
+					    "info":"As one of the pioneers in male and female hair transplantation methods, Dr. Ziering is continually recognized by associations and organizations dedicated to the art and science of innovative hair replacement.\n\nDr. Ziering is often asked to speak and demonstrate at various conventions and conferences worldwide. His continued dedication to the field has earned him the respect and accolades of his peers.",
+					    "email":"Eduardo@zieringhair.com",
+					    "address":{
+					        "housestreet":"240 Central Park South",
+						    "suite":"Suite 1P",
+						    "city":"New York",
+						    "state":"NY",
+						    "zipcode":"10019",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Craig Ziering",
+					    "clinic":"Ziering Beverly Hills ",
+					    "logo":"",
+					    "photo":"photo_ziering.jpg",
+					    "smallphoto":"thumbnail_ziering.png",
+					    "phone":"(877) 296-9830",
+					    "info":"As one of the pioneers in male and female hair transplantation methods, Dr. Ziering is continually recognized by associations and organizations dedicated to the art and science of innovative hair replacement.\nDr. Ziering is often asked to speak and demonstrate at various conventions and conferences worldwide. His continued dedication to the field has earned him the respect and accolades of his peers.\n",
+					    "email":"Eduardo@zieringhair.com",
+					    "address":{
+					        "housestreet":"9201 Sunset Boulevard",
+						    "suite":"Suite 305",
+						    "city":"West Hollywood",
+						    "state":"CA",
+						    "zipcode":"90069",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Craig Ziering",
+					    "clinic":"Ziering Las Vegas",
+					    "logo":"",
+					    "photo":"photo_ziering.jpg",
+					    "smallphoto":"thumbnail_ziering.png",
+					    "phone":"(877) 296-9830",
+					    "info":"As one of the pioneers in male and female hair transplantation methods, Dr. Ziering is continually recognized by associations and organizations dedicated to the art and science of innovative hair replacement.\nDr. Ziering is often asked to speak and demonstrate at various conventions and conferences worldwide. His continued dedication to the field has earned him the respect and accolades of his peers.\n",
+					    "email":"Eduardo@zieringhair.com",
+					    "address":{
+					        "housestreet":"410 S Rampart",
+						    "suite":"Suite 390",
+						    "city":"Las Vegas",
+						    "state":"NV",
+						    "zipcode":"89145",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Craig Ziering",
+					    "clinic":"Ziering Atlanta",
+					    "logo":"",
+					    "photo":"photo_ziering.jpg",
+					    "smallphoto":"thumbnail_ziering.png",
+					    "phone":"(877) 296-9830",
+					    "info":"As one of the pioneers in male and female hair transplantation methods, Dr. Ziering is continually recognized by associations and organizations dedicated to the art and science of innovative hair replacement.\nDr. Ziering is often asked to speak and demonstrate at various conventions and conferences worldwide. His continued dedication to the field has earned him the respect and accolades of his peers.\n",
+					    "email":"Eduardo@zieringhair.com",
+					    "address":{
+					        "housestreet":"3193 Howell Mill Rd",
+						    "suite":"NW #229",
+						    "city":"Atlanta",
+						    "state":"GA",
+						    "zipcode":"30327",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Craig Ziering",
+					    "clinic":"Ziering Chicago",
+					    "logo":"",
+					    "photo":"photo_ziering.jpg",
+					    "smallphoto":"thumbnail_ziering.png",
+					    "phone":"(877) 296-9830",
+					    "info":"As one of the pioneers in male and female hair transplantation methods, Dr. Ziering is continually recognized by associations and organizations dedicated to the art and science of innovative hair replacement.\nDr. Ziering is often asked to speak and demonstrate at various conventions and conferences worldwide. His continued dedication to the field has earned him the respect and accolades of his peers.\n",
+					    "email":"Eduardo@zieringhair.com",
+					    "address":{
+					        "housestreet":"120 Oakbrook Center",
+						    "suite":"",
+						    "city":"Oak Brook",
+						    "state":"IL",
+						    "zipcode":"60523",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Craig Ziering",
+					    "clinic":"Ziering Newport Beach",
+					    "logo":"",
+					    "photo":"photo_ziering.jpg",
+					    "smallphoto":"thumbnail_ziering.png",
+					    "phone":"(877) 296-9830",
+					    "info":"As one of the pioneers in male and female hair transplantation methods, Dr. Ziering is continually recognized by associations and organizations dedicated to the art and science of innovative hair replacement.\nDr. Ziering is often asked to speak and demonstrate at various conventions and conferences worldwide. His continued dedication to the field has earned him the respect and accolades of his peers.\n",
+					    "email":"Eduardo@zieringhair.com",
+					    "address":{
+					        "housestreet":"2071 San Joaquin Hills Rd",
+						    "suite":"",
+						    "city":"Newport Beach",
+						    "state":"CA",
+						    "zipcode":"92660",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Briggs Cook",
+					    "clinic":"PURE Facial Plastic Surgery & MedSpa",
+					    "logo":"",
+					    "photo":"photo_cook.jpg",
+					    "smallphoto":"thumbnail_cook.png",
+					    "phone":"(877) 926-4694",
+					    "info":"Dr. Cook is a member of the American Society of Cataract and Refractive Surgeons, American Academy of Ophthalmology,  and American Medical Association.\nCertified, American Board of Ophthalmology Specializing In Facial Plastic Surgery.\nFellowship: Oculoplastic and Reconstructive Surgery.\nFellowship: American Academy of Cosmetic Surgery Associations\nAmerican Society of Ophthalmic Plastic and Reconstructive Surgery\nAmerican Academy of Cosmetic Surgery\nB.A. Duke University\nSumma Cum Laude – Chemistry Major\nM.D.: Johns Hopkins University School of Medicine Baltimore, MD\nInternship: Mayo Clinic\nResidency in Ophthalmology: Mayo Clinic\nFellowship in Eye and Facial Cosmetic Surgery: University of Wisconsin – Madison.",
+					    "email":"briggscook@yahoo.com",
+					    "address":{
+					        "housestreet":"10210 Hickorywood Hill Avenue",
+						    "suite":"Suite 100",
+						    "city":"Huntersville",
+						    "state":"NC",
+						    "zipcode":"28078",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Justin Rome",
+					    "clinic":"Robotic Hair Restoration Center",
+					    "logo":"",
+					    "photo":"photo_rome.jpg",
+					    "smallphoto":"thumbnail_rome.png",
+					    "phone":"(888) 317-3683",
+					    "info":"Before opening The Robotic Hair Restoration Center, Dr. Justin Rome underwent extensive training in hair restoration surgery. After he graduated from Drexel University College of Medicine in Philadelphia, PA, he completed an Internship at Lenox Hill Hospital in New York City, NY, followed by a Residency at Albert Einstein University in Bronx, NY, then finally Fellowships at the Bassin Center for Plastic Surgery and The Orlando and Tampa Hair Restoration Centers in Florida. With his experience performing many cases with the ARTAS system as well as other FUE techniques, Dr. Rome came to realize that the results he acheived with the ARTAS system were far superior than any other method. This is why Dr. Rome decided to establish his own hair restoration service exclusively dedicated to the practice of the ARTAS system for robotic hair restoration.",
+					    "email":"rome.justin@gmail.com",
+					    "address":{
+					        "housestreet":"256 South La Cienega Boulevard",
+						    "suite":"",
+						    "city":"Beverly Hills",
+						    "state":"CA",
+						    "zipcode":"90211",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Mark Bishara",
+					    "clinic":"Bishara Cosmetic Surgery and Hair Restoration",
+					    "logo":"",
+					    "photo":"photo_bishara.jpg",
+					    "smallphoto":"thumbnail_bishara.png",
+					    "phone":"(877) 848-0998",
+					    "info":"Dr. Bishara completed a five-year residency in general surgery at Morristown Memorial hospital, which is affiliated with the prestigious Mount Sinai Medical School in Manhattan, New York. During this time he founded the American Plastic and Reconstructive Research Association - an industrial think-tank for novel concepts and respective clinical applications in plastic surgery. He then completed a fellowship appointment in Aesthetic and Reconstructive Plastic Surgery at the world-renowned Beth Israel Deaconess Medical Center, a Harvard Medical School affiliate, in Boston, Massachusetts. After completion of his fellowship, Dr. Bishara completed additional training in hair transplantation with Dr. Mark Distefano in Worcester, Massachusetts. He has performed hair restoration procedures with Dr. Distefano in Massachusetts, Connecticut, Rhode Island, and Manhattan. In 2012, Dr Bishara was awarded \"Most Robotic Hair Transplant Cases - Worldwide\".",
+					    "email":"leads@markbisharamd.com",
+					    "address":{
+					        "housestreet":"1101 Matlock Road",
+						    "suite":"",
+						    "city":"Mansfield",
+						    "state":"TX",
+						    "zipcode":"76063",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Mark Bishara",
+					    "clinic":"Bishara Cosmetic Surgery and Hair Restoration",
+					    "logo":"",
+					    "photo":"photo_bishara.jpg",
+					    "smallphoto":"thumbnail_bishara.png",
+					    "phone":"(877) 848-0998",
+					    "info":"Dr. Bishara completed a five-year residency in general surgery at Morristown Memorial hospital, which is affiliated with the prestigious Mount Sinai Medical School in Manhattan, New York. During this time he founded the American Plastic and Reconstructive Research Association - an industrial think-tank for novel concepts and respective clinical applications in plastic surgery. He then completed a fellowship appointment in Aesthetic and Reconstructive Plastic Surgery at the world-renowned Beth Israel Deaconess Medical Center, a Harvard Medical School affiliate, in Boston, Massachusetts. After completion of his fellowship, Dr. Bishara completed additional training in hair transplantation with Dr. Mark Distefano in Worcester, Massachusetts. He has performed hair restoration procedures with Dr. Distefano in Massachusetts, Connecticut, Rhode Island, and Manhattan. In 2012, Dr Bishara was awarded \"Most Robotic Hair Transplant Cases - Worldwide\".",
+					    "email":"leads@markbisharamd.com",
+					    "address":{
+					        "housestreet":"9820 N. Central Expressway",
+						    "suite":"514",
+						    "city":"Dallas",
+						    "state":"TX",
+						    "zipcode":"75231",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Dr. Mark Bishara",
+					    "clinic":"Bishara Cosmetic Surgery and Hair Restoration",
+					    "logo":"",
+					    "photo":"photo_bishara.jpg",
+					    "smallphoto":"thumbnail_bishara.png",
+					    "phone":"(877) 848-0998",
+					    "info":"Dr. Bishara completed a five-year residency in general surgery at Morristown Memorial hospital, which is affiliated with the prestigious Mount Sinai Medical School in Manhattan, New York. During this time he founded the American Plastic and Reconstructive Research Association - an industrial think-tank for novel concepts and respective clinical applications in plastic surgery. He then completed a fellowship appointment in Aesthetic and Reconstructive Plastic Surgery at the world-renowned Beth Israel Deaconess Medical Center, a Harvard Medical School affiliate, in Boston, Massachusetts. After completion of his fellowship, Dr. Bishara completed additional training in hair transplantation with Dr. Mark Distefano in Worcester, Massachusetts. He has performed hair restoration procedures with Dr. Distefano in Massachusetts, Connecticut, Rhode Island, and Manhattan. In 2012, Dr Bishara was awarded \"Most Robotic Hair Transplant Cases - Worldwide\".",
+					    "email":" leads@markbisharamd.com",
+					    "address":{
+					        "housestreet":"1203 South White Chapel Blvd.",
+						    "suite":"Suite 150",
+						    "city":"Southlake",
+						    "state":"TX",
+						    "zipcode":"76092",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Sean Weiss",
+					    "clinic":"Khoobehi & Associates",
+					    "logo":"",
+					    "photo":"photo_weiss.jpg",
+					    "smallphoto":"thumbnail_weiss.png",
+					    "phone":"(888) 618-9113",
+					    "info":"Facial Plastic Surgeon – Sean R.  Weiss, MD is a native of New Orleans, who specializes in cosmetic surgery of the face, head, and neck. Dr Weiss completed his undergraduate and medical education at Louisiana State University. He then completed a surgical internship and residency training in Otolaryngology – Head and Neck Surgery with LSU Health Sciences Center in New Orleans. Following residency, Dr. Weiss was one of forty-six individuals selected for fellowship training through the American Academy of Facial Plastic and Reconstructive Surgery, where he focused his interest on cosmetic and laser surgery, as well as facial reconstruction.\n\nSean R. Weiss, MD has been active in resident education at Emory University’s school of medicine, and more recently at the LSU health sciences center school of medicine where he serves as an assistant clinical professor focusing his efforts on Facial Plastic and Reconstructive Surgery.",
+					    "email":"katie@khoobehi.com",
+					    "address":{
+					        "housestreet":"4500 Magazine Street",
+						    "suite":"Suite 1",
+						    "city":"New Orleans",
+						    "state":"LA",
+						    "zipcode":"70115",
+						    "country":"United States"
+					    }
+					  },
+					  {
+					    "name":"Drs. Nusbaum and Rose",
+					    "clinic":"Hair Transplant Institute",
+					    "logo":"",
+					    "photo":"photo_nusbaum.png",
+					    "smallphoto":"thumbnail_nusbaum.png",
+					    "phone":"(877) 246-4812",
+					    "info":"Dr. Bernard Nusbaum brings vast experience and professional expertise to the practice of hair restoration. He specializes exclusively in hair transplant surgery and has performed more than 10,000 separate hair transplant procedures in the last two decades.\n\nDr. Rose has over 20 years of experience in hair restoration surgery and is a recognized leader in the field. He is recognized internationally for achieving natural results.",
+					    "email":"info@miamihair.com",
+					    "address":{
+					        "housestreet":"4425 Ponce de Leon Boulevard",
+						    "suite":"Suite 230",
+						    "city":"Coral Gables",
+						    "state":"FL",
+						    "zipcode":"33146",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Robert Houser",
+					    "clinic":"Cosmetic & Plastic Surgery of Columbus, Inc.",
+					    "logo":"",
+					    "photo":"photo_houser.jpg",
+					    "smallphoto":"thumbnail_houser.png",
+					    "phone":"(888) 305-3916",
+					    "info":"Dr. Houser has been practicing Plastic Surgery since 2003 and completed 6 years of residency education following medical school. The final 2 years of his training were dedicated solely to Plastic Surgery at The Ohio State University.\n\nDr. Houser considers each patient’s unique qualities and personal desires when making treatment recommendations. He spends a great deal of time with each patient, making sure he understands what the patient is asking for, thus helping him deliver on patients’ expectations.",
+					    "email":"beth@drroberthouser.com",
+					    "address":{
+					        "housestreet":"41 Commerce Park Drive",
+						    "suite":"",
+						    "city":"Westerville",
+						    "state":"OH",
+						    "zipcode":"43082",
+						    "country":"United States"
+					    }
+		 			  },			
+					  {
+					    "name":"Dr. Baiju C. Gohil",
+					    "clinic":"Robotic Hair Restoration – Long Island",
+					    "logo":"",
+					    "photo":"photo_gohil.png",
+					    "smallphoto":"thumbnail_gohil.png",
+					    "phone":"(516) 323-7908",
+					    "info":"Dr. Gohil is a Board-Certified surgeon and a Fellow of the American College of Surgeons, who received his medical degree from the State University of New York at Brooklyn.  He completed a general surgery residency at the same institution where he served as Clinical Instructor and Chief Resident.  He then went on and completed his surgical training with a fellowship in minimally invasive surgery at the prestigious University of Pittsburgh Medical Center.\n\nHis practice is solely dedicated to hair restoration and he is the first physician to bring the ARTAS Procedure to the Long Island, Brooklyn, and Queens region.  With this cutting-edge technique, patients undergo a virtually painless follicular unit extraction (FUE) hair transplantation leaving no linear scar.\n\nDr. Gohil personally meets every patient to address all of their concerns and is involved in all surgical procedures to ensure the patient has the most natural appearing results each and every time.  His highly skilled staff has many years of experience in hair transplantation and provide the most courteous, patient-oriented service possible.",
+					    "email":"bgohil@rhrli.com",
+					    "address":{
+					        "housestreet":"366 N Broadway",
+						    "suite":"suite LE-2",
+						    "city":"Jericho",
+						    "state":"NY",
+						    "zipcode":"11753",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Gregory Turowski",
+					    "clinic":"New Horizons Center for Cosmetic Surgery",
+					    "logo":"",
+					    "photo":"photo_turowski.png",
+					    "smallphoto":"thumbnail_turowski.png",
+					    "phone":"(877) 224-8026",
+					    "info":"Dr. Gregory Turowski is one of a few double board-certified plastic surgeons specializing in plastic surgery and minimally invasive FUE hair transplantation. He went through surgical training at Yale and Harvard. He pioneered robotic hair transplantation in the world and is one of the most experienced ARTAS physicians. Dr. Turowski is a fellow of the International Society for Hair Restoration Society and American Hair Loss Association and International Alliance of Hair Restoration Surgeons . These organizations admit selected surgeons by invitation only. Members have to achieve highest recognition of the hair restoration standards and prove to be able to generate excellent results.",
+					    "email":"office@newhorizonscenter.com",
+					    "address":{
+					        "housestreet":"9843 Gross Point Road",
+						    "suite":"",
+						    "city":"Skokie",
+						    "state":"IL",
+						    "zipcode":"60076",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Vincent Le",
+					    "clinic":"Advanced Robotic Hair Transplant",
+					    "logo":"",
+					    "photo":"photo_le.png",
+					    "smallphoto":"thumbnail_le.png",
+					    "phone":"(888) 930-5862",
+					    "info":"I start to learn about hair transplant since 2012.  I took a course at San Louise University School of medicine with Dr. Samuel Lam , I also shadowed with a renounce hair restoration surgeon Dr. Mayer Melvin in San Diego.\n\nI attended the ISHRS scientific meeting in 2013 in San Francisco and took another refresher basic hair restoration course.  Since October 2014 I studied  with Dr. Deyarman, learning both strip and fue techniques. I am doing 100 % FUE using the ARTAS Robotic System.",
+					    "email":"robotichairtransplant@yahoo.com",
+					    "address":{
+					        "housestreet":"3803 South Bascom Ave.",
+						    "suite":"Suite 204",
+						    "city":"Campbell",
+						    "state":"CA",
+						    "zipcode":"95008",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Anthony Sparano",
+					    "clinic":"New Jersey Institute for Robotic Hair Surgery",
+					    "logo":"",
+					    "photo":"photo_sparano.png",
+					    "smallphoto":"thumbnail_sparano.png",
+					    "phone":"(732) 681-4247",
+					    "info":"Anthony Sparano, M.D. is an Ivy League trained double board-certified facial plastic surgeon, who specializes in robotic hair transplantation. \nDr. Sparano completed his surgical training and residency at the University of Pennsylvania, with a subsequent Fellowship completed at the University of Michigan. The staff at the NJ Institute for Robotic Hair Surgery focus all efforts on successful outcomes, and a pleasant patient experience. The Institute performs only 1 hair surgery each day, with a focused commitment to a single patient's experience. All consultations are performed by Dr. Sparano, as he is committed to the belief that successful results usually begin with careful and educational consultation. Patients work with a dedicated patient liaison who helps facilitate a comfortable experience through the process. All consultations are complimentary.",
+					    "email":"info@drsparano.com",
+					    "address":{
+					        "housestreet":"3350 State Route 138",
+						    "suite":"Bld. 1, Suite 118",
+						    "city":"Wall",
+						    "state":"NJ",
+						    "zipcode":"07719",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Omeed Memar",
+					    "clinic":"Academic Dermatology & Skin Cancer Inst.",
+					    "logo":"",
+					    "photo":"photo_memar.png",
+					    "smallphoto":"thumbnail_memar.png",
+					    "phone":"(888) 367-9544",
+					    "info":"Dr. Memar is certified by the American Board of Dermatology. He is a fellow of the American Society for Mohs Surgery, American Society for Dermatologic Surgery and the American Academy of Cosmetic Surgery. He is a member of the American Academy of Facial Plastic & Reconstructive Surgery and a member of the International Society for Hair Restoration Surgery.  Dr. Memar has published in leading journals, co-authored numerous chapters for textbooks, designed medical devices in the field of dermatologic surgery, and presented his research across the country.",
+					    "email":"omemar@hotmail.com",
+					    "address":{
+					        "housestreet":"50 East Washington Street",
+						    "suite":"Suite 200",
+						    "city":"Chicago",
+						    "state":"IL",
+						    "zipcode":"60602",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Robert Leonard",
+					    "clinic":"Leonard Hair Transplant Associates",
+					    "logo":"",
+					    "photo":"photo_leonard.png",
+					    "smallphoto":"thumbnail_leonard.png",
+					    "phone":"(800) 543-0660",
+					    "info":"As founder and chief surgeon of Leonard Hair Transplant Associates, Dr. Leonard is medically educated, trained and licensed to perform hair restoration procedures for men and women, to treat thinning hair, partial, and significant baldness. He also performs surgery for transgender patients to achieve more natural-appearing hairlines, eyebrow hair transplantation, restoration for aesthetic reasons or for correction after injury, and hair restoration in men or women who have had facial cosmetic procedures.  He has been a pioneer in the field of hair restoration surgery and an early adopter of the latest technology such as the ARTAS Robotic System.\n\nDr. Leonard has served on a number of boards, including the State of Rhode Island Board of Medical Licensure and Discipline, and he has held leadership positions in several societies, including Founding Secretary and President of the International Society of Hair Restoration Surgery (ISHRS), Chairman of the ISHRS’s Bylaws and Ethics Committee, Chairman of the ISHRS’s Media Committee, Trustee of the University of New England, and Founding Trustee of the American Board of Hair Restoration Surgery.  Dr. Leonard maintains offices in Cranston, Rhode Island; Boston, Worcester, Hyannis, Braintree, Newton Center, Massachusetts; and Salem, New Hampshire.",
+					    "email":"jeff@hairdr.com",
+					    "address":{
+					        "housestreet":"922 Reservoir Ave",
+						    "suite":"",
+						    "city":"Cranston",
+						    "state":"RI",
+						    "zipcode":"02910",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Robert Leonard",
+					    "clinic":"Leonard Hair Transplant Associates",
+					    "logo":"",
+					    "photo":"photo_leonard.png",
+					    "smallphoto":"thumbnail_leonard.png",
+					    "phone":"(800) 543-0660",
+					    "info":"As founder and chief surgeon of Leonard Hair Transplant Associates, Dr. Leonard is medically educated, trained and licensed to perform hair restoration procedures for men and women, to treat thinning hair, partial, and significant baldness. He also performs surgery for transgender patients to achieve more natural-appearing hairlines, eyebrow hair transplantation, restoration for aesthetic reasons or for correction after injury, and hair restoration in men or women who have had facial cosmetic procedures.  He has been a pioneer in the field of hair restoration surgery and an early adopter of the latest technology such as the ARTAS Robotic System.\n\nDr. Leonard has served on a number of boards, including the State of Rhode Island Board of Medical Licensure and Discipline, and he has held leadership positions in several societies, including Founding Secretary and President of the International Society of Hair Restoration Surgery (ISHRS), Chairman of the ISHRS’s Bylaws and Ethics Committee, Chairman of the ISHRS’s Media Committee, Trustee of the University of New England, and Founding Trustee of the American Board of Hair Restoration Surgery.  Dr. Leonard maintains offices in Cranston, Rhode Island; Boston, Worcester, Hyannis, Braintree, Newton Center, Massachusetts; and Salem, New Hampshire.",
+					    "email":"jeff@hairdr.com",
+					    "address":{
+					        "housestreet":"1400 Centre Street",
+						    "suite":"Suite 108",
+						    "city":"Newton Center",
+						    "state":"MA",
+						    "zipcode":"02459",
+						    "country":"United States"
+					    }
+		 			  },				
+					  {
+					    "name":"Dr. Thomas D. Griffin",
+					    "clinic":"Griffin Hair Restoration Center of Philadelphia",
+					    "logo":"",
+					    "photo":"photo_griffin.png",
+					    "smallphoto":"thumbnail_griffin.png",
+					    "phone":"(855) 363-4247",
+					    "info":"Thomas D Griffin, MD. graduated from the University of Notre Dame and Jefferson Medical College. He did his Dermatology and Pathology residencies at Temple University Hospital. He is triple board certified in Dermatology, Dermatopathology and Pathology.   He has been practicing Dermatology and Dermatopathology for  28 years and holds teaching appointments at several university hospitals in Philadelphia. He is the past president of the Philadelphia Dermatology Society and of the Pennsylvania Academy of Dermatology. Dr Griffin brings a special understanding to the practice of Hair restoration because of his in depth knowledge of the underlying pathology of skin and hair disease. This is especially important in the understanding and treatment of hair loss of all types. Dr Griffin has a special interest in the diagnosis and treatment of hair loss most particularly of pattern or genetic hair loss in both men and women. He has been doing hair replacement surgery throughout his 28 year career and has been recognized as a Top Doc by Philadelphia Magazine. Dr Griffin has seen the evolution of hair replacement surgery through the years, always being an innovator in the field of hair replacement surgery. This has culminated in the Griffin Hair Restoration Center of Philadelphia to which Dr Griffin has brought the ARTAS robotic hair transplantation system, the first in Philadelphia. Robotic  technology is the latest, most efficient way to perform FUE (follicular unit extraction), the latest advancement in the performance of hair replacement surgery where individual follicles are harvested and transplanted.  Robotic FUE leaves no visible scars and is minimally invasive. Dr Griffin considers hair replacement surgery to be an art form. Creating a natural appearance which will last a lifetime and look natural for a lifetime is his goal.",
+					    "email":"drgriffin@crossmedicalgroup.com",
+					    "address":{
+					        "housestreet":"2200 Arch St.",
+						    "suite":"Suite 120",
+						    "city":"Philadelphia",
+						    "state":"PA",
+						    "zipcode":"19103",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Marc Avram",
+					    "clinic":"",
+					    "logo":"",
+					    "photo":"photo_avram.png",
+					    "smallphoto":"thumbnail_avram.png",
+					    "phone":"(212) 734-4007",
+					    "info":"Marc R. Avram M.D. is a Clinical Professor of Dermatology at Weill Cornell Medical College in New York City.  He has been in private practice for two decades, specializing in Hair Transplantation.  Dr. Avram performs both the robotic follicular unit extraction (FUE) and strip procedures in the office. Dr. Avram has authored multiple textbooks on hair transplantation and serves as an editor on many peer-reviewed journals.\n\nOur entire staff is dedicated to giving our patients the best possible care. Our staff has worked together for years and been involved in thousands of procedures together. We have also participated in teaching hundreds of physicians and their staff about our approach to patient care and surgery.",
+					    "email":"questions@dravram.com",
+					    "address":{
+					        "housestreet":"905 Fifth Avenue",
+						    "suite":"",
+						    "city":"New York",
+						    "state":"NY",
+						    "zipcode":"10021",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Charles Sweeney",
+					    "clinic":"",
+					    "logo":"",
+					    "photo":"photo_sweeney.png",
+					    "smallphoto":"thumbnail_sweeney.png",
+					    "phone":"",
+					    "info":"Dr. Sweeney established Raleigh Robotic Hair Restoration after over 25 years of working as an attending physician at trauma centers and emergency departments. As part of his training, he trained in all aspects of critical care medicine including orthopedic surgery, general surgery, neurosurgery, pediatric cardiac surgery and plastic surgery. He performed over 800 procedure cases while he trained as an emergency physician and have honed his surgical skills over the last 25 years treating about 4000 patients per year. Hair restoration using the ARTAS Robot provides a superior result and we at Raleigh Robotic Hair Restoration provide a superior experience.",
+					    "email":"gomenergy@gmail.com",
+					    "address":{
+					        "housestreet":"2011 Falls Valley Dr.",
+						    "suite":"Suite 100",
+						    "city":"Raleigh",
+						    "state":"NC",
+						    "zipcode":"27615",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. James DeYarman",
+					    "clinic":"DeYarman Medical Group",
+					    "logo":"",
+					    "photo":"photo_deyarman.png",
+					    "smallphoto":"thumbnail_deyarman.png",
+					    "phone":"(858) 558-4700",
+					    "info":"Dr. James DeYarman has been helping men and women restore their natural hair for over 35 years. His hair restoration combines the experience and know-how clients have come to expect with the latest in hair restoration techniques.\n\nDr. DeYarman Graduated from medical school in 1973. Following residency was in family practice for 10 years. During his training he was introduced to hair transplant surgery. He has over 30 years of experience in hair restoration and is certified by The American Board of Hair Restoration Surgery. He has lectured to other physicians on hair restoration and is a member of ISHRS. He is also a member of the IAHRS, HTN, and American Hair Loss Council. He is recognized as an expert by plastic surgeons in the area. All consultations and procedures are performed by Dr. DeYarman and only does one case per day.",
+					    "email":"nicole@deyarmanmedical.com",
+					    "address":{
+					        "housestreet":"3252 Holiday Court",
+						    "suite":"Suite 204",
+						    "city":"LA Jolla",
+						    "state":"CA",
+						    "zipcode":"92037",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Ivan S. Cohen",
+					    "clinic":"Center for Hair Transplantation",
+					    "logo":"",
+					    "photo":"photo_cohen.jpg",
+					    "smallphoto":"thumbnail_cohen.png",
+					    "phone":"(888) 960-9859",
+					    "info":"Dr. Cohen is board certified with the American Board of Dermatology and  the American Board of Hair Restoration Surgery. Dr. Cohen is the first physician in Connecticut to use the ARTAS Robotic Hair Restoration System to perform follicular unit extraction (FUE), a less invasive option of hair restoration surgery. Utilizing this new technology,  Dr. Cohen is able to provide his patients with the most effective surgical options available today. Dr. Cohen is dedicated to maintaining state of the art surgical techniques and sharing new information and ideas with other leaders in the field of hair transplantation.",
+					    "email":"dricohen@aol.com",
+					    "address":{
+					        "housestreet":"1305 Post Road",
+						    "suite":"",
+						    "city":"Fairfield",
+						    "state":"CT",
+						    "zipcode":"06824",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Bobbi Edwards",
+					    "clinic":"Edwards Hair Restoration and Dermatology Group",
+					    "logo":"",
+					    "photo":"photo_edwards.jpg",
+					    "smallphoto":"thumbnail_edwards.png",
+					    "phone":"(877) 499-8552",
+					    "info":"Dr. Edwards’ Dermatology residency training was done at Henry Ford Hospital in Detroit. She completed her training and became Board-certified by the American Board of Dermatology in 1998. Her recertification examination was successfully passed in 2007. She opened her private practice affiliated with Providence Hospital in 2001. She is also a staff physician at the Detroit Medical Center’s Sinai-Grace Hospital. She holds medical licenses in Michigan, Maryland, Illinois, and Washington DC.",
+					    "email":"bemd1@sbcglobal.net",
+					    "address":{
+					        "housestreet":"24901 Northwestern Highway",
+						    "suite":"Suite 214",
+						    "city":"Southfield",
+						    "state":"MI",
+						    "zipcode":"48075",
+						    "country":"United States"
+					    }
+		 			  },
+					  {
+					    "name":"Dr. Kenneth L. Stein",
+					    "clinic":"Hair Restoration Specialists",
+					    "logo":"",
+					    "photo":"photo_stein.jpg",
+					    "smallphoto":"thumbnail_stein.png",
+					    "phone":"(888) 497-2419",
+					    "info":"Dr. Kenneth L. Stein, MD, FACS, is a world-renowned, board certified surgeon with over 26 years of experience in plastic, reconstructive and hair transplant surgery.\n\nHis extensive expertise combined with the passion to help his patients look and feel their best has culminated in one of the most successful Hair Restoration clinics in the country. A pioneer of specialized hair transplant procedures in the Chicagoland area, Dr. Stein is continuously perfecting his techniques by staying on the forefront of this rapidly-evolving field.",
+					    "email":"kls@liftit.net",
+					    "address":{
+					        "housestreet":"414 North Orleans",
+						    "suite":"Suite 209",
+						    "city":"Chicago",
+						    "state":"IL",
+						    "zipcode":"60654",
+						    "country":"United States"
+					    }
+		 			  }
+
+					]
+				}
+}
